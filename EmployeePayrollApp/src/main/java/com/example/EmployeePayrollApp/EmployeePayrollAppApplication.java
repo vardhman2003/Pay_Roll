@@ -1,4 +1,4 @@
-package com.bridgelabz.employeepayrollapp;
+package com.example.EmployeePayrollApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
