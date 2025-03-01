@@ -10,7 +10,7 @@ public class EmployeeViewController {
 
     @GetMapping("/")  // Maps the root URL
     public String showEmployeePage(Model model) {
-        return "employee"; // Returns "index.html" from templates/
+        return "employee";
     }
 }
 
